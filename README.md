@@ -316,12 +316,3 @@ bash <(curl -s https://raw.githubusercontent.com/D-7J/utunnel/refs/heads/main/Mo
 
 زمان بررسی تانل‌ها را بر اساس ثانیه تنظیم کنید
 
-## 💰 حمایت مالی
-
-ما از حمایت شما برای توسعه و بهبود مستمر پروژه قدردانی می‌کنیم:
-
-</div>
-
-
-
-<div align="center"> <table> <tr> <td><img src="https://github.com/user-attachments/assets/29063460-b7f5-4e59-88df-bbe4bb84c836" width="300"></td> <td><img src="https://github.com/user-attachments/assets/c2f33b82-46ad-46c8-b514-2d017532e5f4" width="300"></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/e7fbaa6e-2d6a-48c8-9696-0cc8ab528a14" width="300"></td> <td><img src="https://github.com/user-attachments/assets/59322989-d5ae-472f-a491-34104ec85b74" width="300"></td> </tr> </table> </div>
